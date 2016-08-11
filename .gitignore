@@ -1,0 +1,13 @@
+tags
+TAGS
+blib
+pm_to_blib
+Debug*
+Release*
+*.so
+*.o
+*.log
+*.tmp
+*.bak
+*.old
+.*.swp
