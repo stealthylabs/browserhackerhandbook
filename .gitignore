@@ -11,3 +11,4 @@ Release*
 *.bak
 *.old
 .*.swp
+log
